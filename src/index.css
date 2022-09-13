@@ -1,0 +1,92 @@
+html,
+body {
+  padding: 0;
+  margin: 10px;
+  background-color: #23252c;
+  font-family: "inter", sans-serif;
+}
+header {
+  text-align: center;
+}
+
+.header--name {
+  color: #ffffff;
+}
+
+.header--job {
+  color: #f3bf99;
+  font-size: 12.28px;
+  margin-top: -17px;
+}
+
+.header--website {
+  font-size: 10.24px;
+  color: #f5f5f5;
+}
+
+/* button */
+
+.linkedin--button:hover {
+  transform: scale(1.1);
+}
+
+.header--button:hover {
+  transform: scale(1.1);
+}
+
+.header--button {
+  display: inline-flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 20px;
+  border-radius: 7px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.linkedin--button {
+  display: inline-flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 20px;
+  border-radius: 7px;
+  margin-left: 10px;
+  background-color: #5093e2;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.button-link {
+  text-decoration: none;
+}
+
+.button-icon {
+  padding: 0 10px;
+}
+
+main {
+  padding: 8px 30px;
+}
+
+.main--h2 {
+  color: #f5f5f5;
+}
+
+.main--text {
+  color: #dcdcdc;
+  font-size: 11px;
+  line-height: 1rem;
+}
+/* footer */
+
+ion-icon {
+  font-size: 20px;
+  text-decoration: none;
+  color: #23252c;
+}
+
+footer > a:hover {
+  transform: scale(1.1);
+}
