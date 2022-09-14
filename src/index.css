@@ -43,6 +43,7 @@ header {
   border-radius: 7px;
   margin-left: 10px;
   cursor: pointer;
+  border: none;
 }
 
 .linkedin--button {
@@ -56,6 +57,7 @@ header {
   background-color: #5093e2;
   color: #ffffff;
   cursor: pointer;
+  border: none;
 }
 
 .button-link {
