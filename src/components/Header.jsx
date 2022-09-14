@@ -3,7 +3,8 @@ import React from "react"
 export default function Header() {
   return (
     <header>
-      <img src="public/images/me2x2.jpg" alt="prof" width="317px" />
+      <img src="/images/profile.jpg" alt="prof" width="317px" />
+
       <h2 className="header--name">Alyssa Sanchez</h2>
       <p className="header--job">Frontend Developer</p>
       <p className="header--website">alyxnchz.website</p>
